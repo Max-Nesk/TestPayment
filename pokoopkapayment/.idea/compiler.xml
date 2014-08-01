@@ -26,6 +26,9 @@
         <module name="PopoopkaPayment" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PokoopkaPayment" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
